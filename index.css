@@ -1,0 +1,24 @@
+body {
+  background-image: url("freedom.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+}
+}
+div{
+	text-align: center;
+}
+h1{
+font-size:30px;
+text-transform: uppercase;
+	}
+	p {
+    font-weight: bold;
+    font-style: italic;
+}
+.text{
+	text-align: center;
+    margin-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
